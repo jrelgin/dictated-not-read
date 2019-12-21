@@ -10,13 +10,9 @@
     "has_social": false
   },
   "footer": {
-    "content": "&copy; All rights reserved.",
+    "content": "",
     "links": [
-      {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
-        "new_window": true
-      }
+
     ]
   }
 }
