@@ -5,9 +5,9 @@
     "title": "JRE",
     "tagline": "My personal scriblings ",
     "logo_img": "",
-    "bg_img": "/images/2019-10-12 11.39.30.jpg",
+    "bg_img": "",
     "has_nav": true,
-    "has_social": false
+    "has_social": true
   },
   "footer": {
     "content": "",
