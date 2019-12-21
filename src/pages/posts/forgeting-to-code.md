@@ -5,7 +5,9 @@ subtitle: ''
 date: 2019-12-21T00:00:00-05:00
 thumb_img_path: ''
 content_img_path: ''
-excerpt: ''
+excerpt: Tonight I decided to forget that I know how to code. Coding is my way of
+  distracting myself from the real challenge—I don't know what to write about. Or
+  how to write very well.
 hide_header: false
 
 ---
