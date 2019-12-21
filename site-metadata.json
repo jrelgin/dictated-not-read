@@ -2,12 +2,12 @@
   "title": "Stackbit Fjord Theme",
   "palette": "blue",
   "header": {
-    "title": "Fjord",
-    "tagline": "Minimal and clean blog theme",
+    "title": "JRE",
+    "tagline": "My personal scriblings ",
     "logo_img": "images/logo.png",
     "bg_img": "images/header-bg.jpg",
-    "has_nav": true,
-    "has_social": true
+    "has_nav": false,
+    "has_social": false
   },
   "footer": {
     "content": "&copy; All rights reserved.",
