@@ -44,6 +44,5 @@ fields:
     required: true
 pages:
 - src/pages/posts/forgeting-to-code.md
-- src/pages/posts/nature.md
 - src/pages/posts/photography.md
 - src/pages/posts/working-from-home.md
