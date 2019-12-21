@@ -1,20 +1,20 @@
 ---
-title: About Me
-subtitle: This is a short page about me and my work
-img_path: images/about.jpg
+title: Hi!
+subtitle: A little bit about me
+img_path: ''
 menus:
   main:
     title: About
     weight: 2
 template: page
+
 ---
+![](/images/IMG_1741.jpg)
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+I'm Jason Elgin, a Senior UX Engineer from [Atlanta](https://en.wikipedia.org/wiki/Atlanta), Georgia. I love to backpack anytime I get the chance. I'm also a huge fan of speculative fiction in any form—books, movies, games, anything.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+![](/images/IMG_6637.jpg)
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+I live with my wonderful girlfriend Rachel our dog, Monty and our cat, Charly.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+_Stick with me. My writing will get better!_
