@@ -13,8 +13,6 @@ I'm Jason Elgin, a Senior UX Engineer from [Atlanta](https://en.wikipedia.org/wi
 
 ![](/images/IMG_1741-1.jpg)
 
-I live with my wonderful girlfriend Rachel, Monty the dog, and Charly the cat. Below is a very rare moment of Charly and Monty getting along.
-
-![](/images/IMG_6637.jpg)
+I live with my wonderful fiancé Rachel, Monty and Birdie the dogs, and Charly the cat.
 
 _Stick with me. My writing will get better!_
