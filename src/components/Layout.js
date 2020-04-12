@@ -2,8 +2,6 @@ import React from 'react';
 import {Helmet} from 'react-helmet';
 import _ from 'lodash';
 
-import {safePrefix} from '../utils';
-
 export default class Body extends React.Component {
     render() {
         return (

@@ -6,7 +6,7 @@
 
 
 exports.onInitialClientRender = () => {
-    const styles = require( './src/styles/global.css');
+    const styles = require( './src/styles/global.css'); // eslint-disable-line no-unused-vars
 
     if ('onGatsbyInitialClientRender' in window && typeof window.onGatsbyInitialClientRender === 'function') {
         window.onGatsbyInitialClientRender();
