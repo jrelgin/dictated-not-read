@@ -1,0 +1,30 @@
+
+$font: (
+  primary: ("PT Serif", serif)
+);
+
+$palette: (
+  primary:       #666666,
+  secondary:     darken(#666666, 27%),
+  meta:          lighten(#666666, 23%),
+  border:        lighten(#666666, 38%),
+  bg:            lighten(#666666, 55%),
+  accent:        #ffd300,
+  accent-blue:   #1fa2ff,
+  accent-green:  #24b466,
+  accent-red:    #f45a4e
+);
+
+@import "imports/_functions";
+
+
+@import "imports/_reset";
+@import "imports/_general";
+@import "imports/_icons";
+@import "imports/_structure";
+@import "imports/_header";
+@import "imports/_content";
+@import "imports/_footer";
+@import "imports/_animations";
+@import "imports/_palettes";
+@import "imports/_banner";

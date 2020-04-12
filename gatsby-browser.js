@@ -4,9 +4,13 @@
  * See: https://www.gatsbyjs.org/docs/browser-apis/
  */
 
+
 exports.onInitialClientRender = () => {
+    const styles = require( './src/styles/global.css');
+
     if ('onGatsbyInitialClientRender' in window && typeof window.onGatsbyInitialClientRender === 'function') {
         window.onGatsbyInitialClientRender();
+        window.styles();
     }
 };
 

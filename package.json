@@ -11,10 +11,18 @@
   },
   "dependencies": {
     "@stackbit/gatsby-plugin-menus": "0.0.4",
+    "autoprefixer": "^9.7.6",
     "classnames": "^2.2.6",
+    "eslint": "^5.16.0",
+    "eslint-loader": "^2.1.2",
+    "eslint-plugin-import": "^2.17.3",
+    "eslint-plugin-react": "^7.13.0",
     "fs-extra": "^7.0.1",
     "gatsby": "^2.20.12",
+    "gatsby-plugin-eslint": "^2.0.5",
+    "gatsby-plugin-postcss": "^2.2.1",
     "gatsby-plugin-react-helmet": "^3.0.0",
+    "gatsby-plugin-svgr": "^2.0.2",
     "gatsby-source-filesystem": "2.0.28",
     "gatsby-transformer-remark": "2.3.8",
     "js-yaml": "^3.13.1",
@@ -24,6 +32,11 @@
     "moment-strftime": "^0.5.0",
     "node-sass": "^4.11.0",
     "node-sass-utils": "^1.1.2",
+    "postcss-import": "^12.0.1",
+    "postcss-node-sass": "^2.1.8",
+    "postcss-url": "^8.0.0",
+    "precss": "^4.0.0",
+    "prettier": "^1.18.2",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
     "react-helmet": "^5.2.0",
@@ -31,5 +44,8 @@
     "react-script-tag": "^1.1.2",
     "rehype-react": "^3.0.2",
     "sprintf-js": "^1.1.2"
+  },
+  "devDependencies": {
+    "postcss-comment": "^2.0.0"
   }
 }

@@ -1,3 +1,10 @@
+const precss = require('precss');
+const autoprefixer = require('autoprefixer');
+const postcssImports = require('postcss-import');
+const postcssUrl = require('postcss-url');
+const postCSSNodeSass = require('postcss-node-sass');
+
+
 module.exports = {
     pathPrefix: '/',
     siteMetadata: require('./site-metadata.json'),
@@ -5,17 +12,22 @@ module.exports = {
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
         {
+            resolve: `gatsby-plugin-postcss`,
+            options: {
+                postCssPlugins: [
+                    postcssImports(),
+                    precss(),
+                    autoprefixer(),
+                    postcssUrl(),
+                    postCSSNodeSass(),
+                ],
+            },
+        },
+        {
             resolve: `gatsby-source-filesystem`,
             options: {
                 name: `pages`,
                 path: `${__dirname}/src/pages`,
-            },
-        },
-        {
-            resolve: `gatsby-plugin-stackbit-static-sass`,
-            options: {
-                inputFile: `${__dirname}/src/sass/main.scss`,
-                outputFile: `${__dirname}/public/assets/css/main.css`
             },
         },
         {
