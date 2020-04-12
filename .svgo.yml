@@ -1,0 +1,11 @@
+multipass: true
+
+plugins:
+  - cleanupAttrs: false
+  - inlineStyles: false
+  - removeEmptyAttrs: false
+  - removeHiddenElems: false
+  - removeViewBox: false
+  - minifyStyles: false
+  - convertStyleToAttrs: false
+  - cleanupIDs: false
