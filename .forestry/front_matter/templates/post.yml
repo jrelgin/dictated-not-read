@@ -44,3 +44,4 @@ fields:
     required: true
 pages:
 - src/pages/posts/forgeting-to-code.md
+- src/pages/posts/my-favorite-pandemic-escapes.md
