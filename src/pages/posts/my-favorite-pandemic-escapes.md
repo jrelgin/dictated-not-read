@@ -5,7 +5,9 @@ subtitle: ''
 date: 2020-04-19T00:00:00-04:00
 thumb_img_path: ''
 content_img_path: ''
-excerpt: ''
+excerpt: Right now we are in the middle of a global pandemic. Pandemics have happened
+  in the past but never on such a large scale. Our world is in the middle of something
+  unprecedented right now.
 hide_header: false
 
 ---
