@@ -4,7 +4,6 @@ const postcssImports = require('postcss-import');
 const postcssUrl = require('postcss-url');
 const postCSSNodeSass = require('postcss-node-sass');
 
-
 module.exports = {
     pathPrefix: '/',
     siteMetadata: require('./site-metadata.json'),

@@ -1,2 +1,4 @@
+/* this file has to be modified in order to process the import files ¯\_(ツ)_/ ¯*/
 @import '_variables.css';
+@import '_normalize.css';
 @import '_type.css';
